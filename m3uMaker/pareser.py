@@ -24,7 +24,7 @@ def check_url_ok(url):
 
 # URL 合集
 urls = [
-    "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u"
+    "https://tvkj.top/zb.txt"
 ]
 
 m3u_playlist = M3uParser()
